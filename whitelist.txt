@@ -113,3 +113,5 @@ connectivitycheck.gstatic.com
 connectivitycheck.android.com
 www.msftconnecttest.com
 incoming.telemetry.mozilla.org
+mask-h2.icloud.com
+mask.icloud.com
